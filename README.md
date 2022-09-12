@@ -1,4 +1,4 @@
-### About me
+### About Ricardo Castañeda
 I'm an Industrial Engineer with a Master's in statistics and data science. I am mainly passionate about statistical modeling, data engineering, predictive analytics, machine learning, and process optimization.
 
 <!--
