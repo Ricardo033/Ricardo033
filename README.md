@@ -1,5 +1,5 @@
 ### About Ricardo Castañeda
-I'm an Industrial Engineer with a Master's in statistics and data science. I am mainly passionate about statistical modeling, data engineering, predictive analytics, machine learning, and process optimization.
+I'm an Industrial Engineer with a Master's in statistics and data science, and I'm mainly passionate about statistical modeling, data engineering, predictive analytics, machine learning, and process optimization.
 
 <!--
 **Ricardo033/Ricardo033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
